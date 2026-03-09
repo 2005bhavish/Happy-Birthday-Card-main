@@ -41,5 +41,3 @@ To set this, specify the date in `YYYY-MM-DD` format as `OPEN_DATE` environment 
 For the customizations to take effect, one must redeploy/rebuild the project.
 
 ---
-
-<div align="center">Made with 💖 by Anshuman Mahato</div>

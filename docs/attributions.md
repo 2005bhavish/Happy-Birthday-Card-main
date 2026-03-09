@@ -14,4 +14,3 @@
 
 ---
 
-<div align="center">Made with 💖 by Anshuman Mahato</div>
